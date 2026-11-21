@@ -1,6 +1,7 @@
 ---
 name: podman-mac
-description: Use when the user runs Podman on a Mac in place of Docker Desktop and wants to start, stop, check or fix it — "start podman", "stop podman", "is podman running", "docker: Cannot connect to the Docker daemon", "podman machine fails", "docker compose up on podman", "back up or restore a database in podman", or any docker/podman container task on macOS where the engine is `podman machine`.
+description: >-
+  Use when the user runs Podman on a Mac in place of Docker Desktop and wants to start, stop, check or fix it — "start podman", "stop podman", "is podman running", "docker: Cannot connect to the Docker daemon", "podman machine fails", "docker compose up on podman", "back up or restore a database in podman", or any docker/podman container task on macOS where the engine is `podman machine`.
 ---
 
 # Podman on macOS
